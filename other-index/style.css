@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=WDXL+Lubrifont+JP+N&display=swap');
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@   100..700;1,100..700&family=WDXL+Lubrifont+JP+N&display=swap');
+}
+
+body{
+    font-family: 'Roboto Mono';
+}
